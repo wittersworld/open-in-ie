@@ -1,0 +1,30 @@
+{
+  "name": "openinie",
+  "title": "Open in IE",
+  "id": "jid1-BYD6ia7kwSyshA",
+  "description": "Opens selected link or page in a new Internet Explorer window",
+  "author": "Martin Witters",
+  "license": "MPL 2.0",
+  "version": "1.5",
+  "preferences": [{
+      "name": "iePath",
+      "title": "IE Path",
+      "description": "Path to Internet Explorer",
+      "type": "file",
+      "value": "C:\\\\Program Files (x86)\\\\Internet Explorer\\\\iexplore.exe"    
+    },
+    {
+      "name": "useDomainList",
+      "title": "Use Domain List",
+      "description": "Determines whether the domain list should be used to automatically open specified domains in IE",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "domainList",
+      "title": "Domain List",
+      "description": "List of domains to automatically open in IE. Separate domains with the pipe character (|).",
+      "type": "string",
+      "value": "microsoft.com|microsoftstore.com"    
+    }]
+}

@@ -1,0 +1,12 @@
+<!ENTITY openinie.label "Öffnen Sie im IE">
+<!ENTITY openinieContext.label "Öffnen Sie im IE">
+<!ENTITY openinieContext.accesskey "I">
+<!ENTITY openinieButton.label "Öffnen Sie im IE">
+<!ENTITY openinieButton.toolTip "Seite öffnen in Internet Explorer">
+<!ENTITY openinieOptions.dialogTitle "Optionen">
+<!ENTITY openinieOptions.generalPaneLabel "Allgemein">
+<!ENTITY openinieOptions.labelIEPath "IE Dateipfad:">
+<!ENTITY openinieOptions.labelUseDomainList "Verwenden Sie die Liste von Domains">
+<!ENTITY openinieOptions.labelDomains "Domains">
+<!ENTITY openinieOptions.buttonAdd "Hinzufügen">
+<!ENTITY openinieOptions.buttonRemove "Entfernen">

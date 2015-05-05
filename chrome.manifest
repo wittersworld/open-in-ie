@@ -1,0 +1,10 @@
+content	openinie	chrome/openinie/content/
+locale	openinie	en-US	chrome/openinie/locale/en-US/
+locale	openinie	es-ES	chrome/openinie/locale/es-ES/
+locale	openinie	de-DE	chrome/openinie/locale/de-DE/
+locale	openinie	fr-FR	chrome/openinie/locale/fr-FR/
+locale	openinie	it-IT	chrome/openinie/locale/it-IT/
+skin	openinie	classic/1.0	skin/
+overlay	chrome://browser/content/browser.xul	chrome://openinie/content/openinie.xul
+style	chrome://global/content/customizeToolbar.xul	chrome://openinie/skin/overlay.css
+
