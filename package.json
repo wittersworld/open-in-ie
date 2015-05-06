@@ -1,17 +1,18 @@
 {
   "name": "openinie",
   "title": "Open in IE",
-  "id": "jid1-BYD6ia7kwSyshA",
+  "id": "openinie@wittersworld.com",
   "description": "Opens selected link or page in a new Internet Explorer window",
   "author": "Martin Witters",
   "license": "MPL 2.0",
-  "version": "1.5",
+  "version": "1.5.0",
+  "main": "lib/main.js",
   "preferences": [{
       "name": "iePath",
       "title": "IE Path",
       "description": "Path to Internet Explorer",
       "type": "file",
-      "value": "C:\\\\Program Files (x86)\\\\Internet Explorer\\\\iexplore.exe"    
+      "value": "C:\\Program Files\\Internet Explorer\\iexplore.exe"    
     },
     {
       "name": "useDomainList",
